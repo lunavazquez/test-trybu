@@ -13,7 +13,7 @@ export default function Card(props) {
         <h3 className="name">{name}</h3>
         <small className="type">
           Tipo:
-          <span>{type}</span>
+          <span> {type}</span>
         </small>
       </div>
     </div>
