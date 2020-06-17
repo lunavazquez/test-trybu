@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test-trybu/static/css/main.16a6f8cd.chunk.css",
+    "main.js": "/test-trybu/static/js/main.cb555e12.chunk.js",
+    "main.js.map": "/test-trybu/static/js/main.cb555e12.chunk.js.map",
+    "runtime-main.js": "/test-trybu/static/js/runtime-main.196c2737.js",
+    "runtime-main.js.map": "/test-trybu/static/js/runtime-main.196c2737.js.map",
+    "static/js/2.6c2f1c41.chunk.js": "/test-trybu/static/js/2.6c2f1c41.chunk.js",
+    "static/js/2.6c2f1c41.chunk.js.map": "/test-trybu/static/js/2.6c2f1c41.chunk.js.map",
+    "index.html": "/test-trybu/index.html",
+    "precache-manifest.9840b19249a844db2f54f878e0efa402.js": "/test-trybu/precache-manifest.9840b19249a844db2f54f878e0efa402.js",
+    "service-worker.js": "/test-trybu/service-worker.js",
+    "static/css/main.16a6f8cd.chunk.css.map": "/test-trybu/static/css/main.16a6f8cd.chunk.css.map",
+    "static/js/2.6c2f1c41.chunk.js.LICENSE.txt": "/test-trybu/static/js/2.6c2f1c41.chunk.js.LICENSE.txt",
+    "static/media/pokemon.203d635c.svg": "/test-trybu/static/media/pokemon.203d635c.svg",
+    "static/media/search.a88f7755.svg": "/test-trybu/static/media/search.a88f7755.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.196c2737.js",
+    "static/js/2.6c2f1c41.chunk.js",
+    "static/css/main.16a6f8cd.chunk.css",
+    "static/js/main.cb555e12.chunk.js"
+  ]
+}
